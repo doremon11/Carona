@@ -12,14 +12,17 @@ link : https://teachablemachine.withgoogle.com/
              hand                               action
    * by showing your palm to camera        : boy will jump * 
    * by showing your folded hand to camera : boy will run *
+   link for game code : https://glitch.com/edit/#!/carona-ml
 # Game image 
 ![Carona Game](https://user-images.githubusercontent.com/72811328/116783030-1cd7d080-aaaa-11eb-9a48-27fe208bc7c0.png)
 # References
   https://glitch.com/edit/#!/verbena-thorn-asparagus
+  
   https://teachablemachine.withgoogle.com/
  
    
 # Team Members
 KALA SRI SOWMYA - 19PA1A1257
+
 KODALI POOJITHA - 19PA1A0574
  
