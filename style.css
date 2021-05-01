@@ -1,0 +1,111 @@
+*{
+    padding: 0;
+    margin: 10px solid black ;
+    overflow-x: hidden;
+    box-sizing: border-box;
+}
+
+#character{
+    
+    position:absolute;
+    top: 360px;
+    left:30px;
+     margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 55%;  
+  
+}
+#block{
+    
+     position: absolute;
+    
+     top: 80%;
+    left: 89%;
+   animation: block 6s infinite linear;
+   margin: 0;
+            overflow-x: hidden;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  box-sizing: border-box;
+  padding-left: ;
+  padding-right: 10px;
+
+}
+.animate{
+    animation: jump 6s linear;
+}
+@keyframes jump{
+    0%{top: 200px;}
+    30%{top: 250px;}
+    70%{top: 300px;}
+    100%{top: 550px;}
+}
+
+
+#lock{
+    
+    position: relative;
+    top: -100px;
+    left: 500px;
+    animation: block 7s infinite linear;
+}
+@keyframes block{
+    0%{left: 700px}
+    100%{left: -20px}
+}
+p{
+    text-align: center;
+}
+
+#webcam-container{
+    margin: 0;
+    position: absolute;
+    top: 40%;
+    left: 60%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+
+}
+
+#label-container{
+    margin: 0;
+    position: absolute;
+    top: 60%;
+    left: 60%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+
+body{
+  background :url('https://cdn.glitch.com/edab18d4-469a-4d2e-8ff1-2dba690dae15%2Fthumbnails%2Froad.jpg?1619796987171')no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+h1{
+   animation: blink 12s infinite;
+  -webkit-animation: blink 12s infinite;
+  line-height: calc(10px + 10vh);
+  color:black;
+  font-size: 90px;
+  color: #121212;
+  text-align: center;
+  letter-spacing: 5px;
+  text-shadow: 0 2px 2px #dfdfdf, 
+      -2px 5px 1px #b8b8b8, 
+      -4px 8px 0px #979797, 
+      -6px 11px 0px #747474,
+      -8px 14px 0px #565656,
+      -10px 17px 0px #343434,
+      -12px 20px 0px #171717,
+      -14px 23px 0px #000;
+  
+  
+}
+#me{
+  text-align: center;
+  background : solid blue;
+  padding: 10px;
+  border :5px solid black;
+}
