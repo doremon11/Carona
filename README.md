@@ -17,9 +17,11 @@ link : https://teachablemachine.withgoogle.com/
    link for game code : https://glitch.com/edit/#!/carona-ml
 # Game image 
 ![Carona Game](https://user-images.githubusercontent.com/72811328/116783030-1cd7d080-aaaa-11eb-9a48-27fe208bc7c0.png)
+# video
+  https://youtu.be/CuMSlKe1lAE
 # References
   https://glitch.com/edit/#!/verbena-thorn-asparagus
-  
+  https://css-tricks.com/
   https://teachablemachine.withgoogle.com/
  
    
