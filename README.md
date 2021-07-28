@@ -1,4 +1,4 @@
-# Carona
+# Carona Game Using hand 
    A small  invisible virus, has drastically changed the routines of our lives.The COVID-19 pandemic has led to a dramatic loss of human life worldwide and presents an unprecedented challenge to public health, food systems and the world of work.The pandemic has decimated jobs and placed millions of livelihoods at risk
 # What is Teachable Machine?
 Teachable Machine is a web-based tool that makes creating machine learning models fast, easy, and accessible to everyone.
