@@ -4,7 +4,7 @@
 Teachable Machine is a web-based tool that makes creating machine learning models fast, easy, and accessible to everyone.
 link : https://teachablemachine.withgoogle.com/
 # Game link
-   https://carona-ml.glitch.me/
+   https: //carona-ml.glitch.me/
 # Game image 
 ![Carona Game](https://user-images.githubusercontent.com/72811328/116783030-1cd7d080-aaaa-11eb-9a48-27fe208bc7c0.png)
 # About Game 
