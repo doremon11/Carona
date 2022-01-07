@@ -16,7 +16,7 @@ link : https://teachablemachine.withgoogle.com/
    
    * by showing your folded hand to camera : boy will run *
    
-   link for game code : https://glitch.com/edit/#!/carona-ml
+   link for game code : https://gltch.com/edit/#!/carona-ml
 # video
   https://youtu.be/CuMSlKe1lAE
 # References
